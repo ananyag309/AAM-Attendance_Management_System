@@ -1,5 +1,5 @@
 
-Abstract 
+Abstract:
 Our project, the Face Scanner Attendance System, leverages advanced facial recognition technology to address the prevalent issue of proxy attendance in educational institutions. By implementing a three-tier attendance marking system—capturing entry, mid-session, and exit images—we ensure a comprehensive and accurate attendance record. The system, developed using Python, adds an extra layer of precision to attendance tracking, promoting fairness and accountability. 
  
 1.	Introduction 
