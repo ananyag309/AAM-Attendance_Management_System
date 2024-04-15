@@ -89,7 +89,8 @@ This design ensures a streamlined process where the system captures, processes, 
 3.2 Challenges Faced 
 1. Facial Recognition Accuracy: 
 -	Challenge: Ensuring high accuracy in facial recognition posed initial difficulties, especially in diverse lighting conditions. 
--	Solution: Iterative testing and fine algorithms improved accuracy significantly. 
+-	Solution: Iterative testing and fine algorithms improved accuracy significantly.
+-	It is a three-tier attendence system
 2. Code Debugging: 
 -	Challenge: Encountering bugs and errors in the code, leading to difficulties in achieving smooth system functionality. 
 -	Solution: Embraced a hands-on debugging approach, actively sought help from peers, and attended coding clinics organized by the department. 
